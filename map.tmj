@@ -432,7 +432,7 @@
                 {
                  "height":165.333333333333,
                  "id":13,
-                 "name":"jitsiChillZone",
+                 "name":"Meeting1Jitsi",
                  "properties":[
                         {
                          "name":"focusable",
@@ -543,7 +543,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.666666666667,
                  "x":481.333333333333,
@@ -565,7 +565,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.667,
                  "x":320.6665,
@@ -587,7 +587,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.667,
                  "x":751.333166666667,
@@ -609,7 +609,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.667,
                  "x":543.333166666667,
@@ -631,7 +631,7 @@
                          "value":"Meeting 1"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":256.666666666667,
                  "x":30.6666666666667,
