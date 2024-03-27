@@ -506,7 +506,7 @@
          "name":"opened_meeting1_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -589,11 +589,10 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":32,
          "id":77,
-         "locked":true,
          "name":"opened_raum2_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -679,7 +678,7 @@
          "name":"opened_meeting2_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -765,7 +764,7 @@
          "name":"opened_klo_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -851,7 +850,7 @@
          "name":"opened_klo2_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -937,7 +936,7 @@
          "name":"opened_rundertisch_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -1023,7 +1022,7 @@
          "name":"opened_gruppenraum_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
